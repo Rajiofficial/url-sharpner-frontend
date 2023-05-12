@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
 
 .login:hover {
-  color: #fff !important;
+  color: #ca44dc !important;
 }
 
 .more-ft {
@@ -10,7 +10,7 @@
 }
 
 .boost {
-  background-color: hsl(257, 27%, 26%);
+  background-color: hsl(205, 60%, 54%);
   height: 17.188rem;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .shortener {
-  background-color: hsl(257, 27%, 26%);
+  background-color: hsl(127, 86%, 63%);
   height: 17.188rem;
   border-radius: 8px;
   width: 98%;
@@ -73,8 +73,8 @@
 }
 
 .bod {
-  background: #31d2f2;
-  background: linear-gradient(to right, #72c7d8, #31d2f2);
+  background: #64f231;
+  background: linear-gradient(to right, #92ec39, #31d2f2);
 }
 
 .btn-login {

@@ -42,7 +42,7 @@ function Footer() {
             </h3>
             <ul className='text-white list-unstyled'>
               <li>About</li>
-              <li>Our Team</li>
+              <li> Team</li>
               <li>Careers</li>
               <li>Contact</li>
             </ul>
